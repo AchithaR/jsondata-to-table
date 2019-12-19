@@ -5,6 +5,7 @@ This is a simple react application which will take input JSON file and create th
 How To Run:
 Copy the whole folder and paste it in your workspace and go to terminal and run the command 
 > cd json-to-table
+
 > npm start
 
 You can change the json data by going to "src/Assets" folder and change, there.
