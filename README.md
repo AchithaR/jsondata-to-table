@@ -13,8 +13,11 @@ You can change the json data by going to "src/Assets" folder and change, there.
 Features:
 
 > JSON data to table structure 
+
 > We can sort the columns and can restrict sorting based on JSON data Column Header fields
+
 > We can search the text and highlight the data
+
 > Customize the filter through json data
 
 
